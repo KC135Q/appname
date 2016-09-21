@@ -1,0 +1,22 @@
+{
+  "name": "appname",
+  "version": "1.0.0",
+  "description": "My app name.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC135Q/appname.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Daniel Kaltenbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KC135Q/appname/issues"
+  },
+  "homepage": "https://github.com/KC135Q/appname#readme"
+}
